@@ -1,7 +1,10 @@
-### Hi there 👋
+# 👋 Hello there, I'm **@SaraGallego22**
+- 🔭 Working on becoming a **Data Scientist**
+- 🌱 I’m currently learning **Python**, **C++**, **Machine Learning** and **Haskell**
+- 📫 How to reach me: &nbsp;<img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png">&nbsp;<a href="https://www.linkedin.com/in/sara-gallego-villada-5888a9217/" target="_blank">Linkedin</a>
 
 <!--
-**SaraGallego22/SaraGallego22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# MY STATS :computer:
+<img align="left" alt="juand-gv GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaraGallego22&include_all_commits=true&show_icons=true&theme=tokyonight">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGallego22&langs_count=8&theme=tokyonight)](https://github.com/SaraGallego22/github-readme-stats)
