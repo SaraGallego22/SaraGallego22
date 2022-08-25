@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm **@SaraGallego22**
 - 🔭 Working on becoming a **Data Scientist**
-- 🌱 I’m currently learning **Python**, **C++**, **Machine Learning** and **Haskell**
+- 🌱 I’m currently learning **Python**, **C++**, **Matlab**, **R**, **Machine Learning** and **Haskell**
 - 📫 How to reach me: &nbsp;<img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png">&nbsp;<a href="https://www.linkedin.com/in/sara-gallego-villada-5888a9217/" target="_blank">Linkedin</a>
 
 <!--
