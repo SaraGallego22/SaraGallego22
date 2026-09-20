@@ -102,8 +102,8 @@ I build **end-to-end AI solutions for logistics, finance and operations** — fr
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaraGallego22&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGallego22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaraGallego22&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaraGallego22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 ---
