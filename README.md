@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sara Gallego 👋</h1>
+<h1 align="center">Sara Gallego</h1>
 
 <p align="center">
   <b>Applied Mathematician · AI Engineer · M.Sc. AI student @ Universidad de los Andes</b>
@@ -12,17 +12,17 @@
 
 ---
 
-## 🧠 About me
+## About me
 
 I build **end-to-end AI solutions for logistics, finance and operations** — from analyzing the business process and picking the right mathematical model, to deploying it on **GCP** and **AWS**.
 
-- 🔭 Currently a **Knowledge Data Engineer at Davivienda**, leading AI-agent governance on Vertex AI.
-- 🎓 Pursuing a **Master's in Artificial Intelligence** at Universidad de los Andes (2026 – 2028).
-- 📐 B.S. in **Mathematical Engineering**, Universidad EAFIT — GPA 4.5 / 5.0.
-- 🤖 Focused on **Generative AI agents, RAG architectures and serverless ML pipelines**, with a strong emphasis on **model interpretability** so technical work actually gets adopted by stakeholders.
-- 🏆 ICPC Nationals (20th / 106 teams) and ITM–Ruta N National Coding Competition semi-finalist (8th / 112 teams).
+- Currently a **Knowledge Data Engineer at Davivienda**, leading AI-agent governance on Vertex AI.
+- Pursuing a **Master's in Artificial Intelligence** at Universidad de los Andes (2026 – 2028).
+- B.S. in **Mathematical Engineering**, Universidad EAFIT — GPA 4.5 / 5.0.
+- Focused on **Generative AI agents, RAG architectures and serverless ML pipelines**, with a strong emphasis on **model interpretability** so technical work actually gets adopted by stakeholders.
+- ICPC Nationals (20th / 106 teams) and ITM–Ruta N National Coding Competition semi-finalist (8th / 112 teams).
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Cloud**
 
@@ -72,7 +72,7 @@ I build **end-to-end AI solutions for logistics, finance and operations** — fr
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## 💼 Experience
+## Experience
 
 | Period | Role | Highlights |
 |---|---|---|
@@ -82,15 +82,16 @@ I build **end-to-end AI solutions for logistics, finance and operations** — fr
 | **2024 – 2025** | **Technical Management Intern** · Seguros SURA | Python + LaTeX pipeline for actuarial document generation; SOX-control validation bots; **−30 % monthly accounting-closure time** via Pandas / NumPy / Selenium automation. |
 | **2022 – 2023** | **Machine Learning Club** · Universidad EAFIT | Led ML / Deep Learning workshops; built a CV system for cafeteria logistics (92 % accuracy, +20 % workflow efficiency). |
 
-## 🚀 Featured projects
+## Featured projects
 
+- **[Investment-Copilot (JUSARA)](https://github.com/SaraGallego22/Investment-Copilot)** — Agentic investment copilot built with Gemini on Google Cloud for the *All Things Agentic Hackathon* (Collaborative Partner track). Learns the gap between a user's *declared* and *revealed* risk profile with a two-layer memory (JSON / Firestore), a cited RAG corpus (SEC, CNMV, research), a deterministic market-simulator API and a reflection step after each session; two services deployed on Cloud Run, human-in-the-loop by design.
 - **[SDG-TextMiner](https://github.com/SaraGallego22/SDG-TextMiner)** — NLP pipeline that classifies Spanish texts into the 17 UN Sustainable Development Goals (TF-IDF → LSA / TruncatedSVD → linear classifier), packaged as a scikit-learn `Pipeline` with a Streamlit app. *M.Sc. AI — Unsupervised Machine Learning.*
 - **Agricultural Disease Detection via CNNs** — CNN classifier for plant health from raw images, **95 % accuracy**, with a preprocessing pipeline designed for production-like robustness.
 - **Multi-Objective Portfolio Optimization** — NSGA-II evolutionary algorithm for resource allocation: +25 % allocation efficiency, +30 % portfolio performance.
 - **Operational Process Optimization (Madecentro)** — simulation model to find supply-chain bottlenecks; optimization cut processing times by 5 %.
 - **High-Efficiency Image Compression** — numerical dimensionality-reduction algorithms for image data, −20 % processing latency for remote monitoring systems.
 
-## 🎓 Education & certifications
+## Education & certifications
 
 - **M.Sc. in Artificial Intelligence** — Universidad de los Andes *(2026 – 2028, expected)*
 - **B.S. in Mathematical Engineering** — Universidad EAFIT *(2021 – 2025)* · GPA 4.5 / 5.0
@@ -99,7 +100,7 @@ I build **end-to-end AI solutions for logistics, finance and operations** — fr
 - **LangChain: Chat with Your Data** — DeepLearning.AI (2025)
 - **Data Storytelling & Advanced Visualization** — Universidad EAFIT (2023)
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaraGallego22&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
@@ -109,6 +110,6 @@ I build **end-to-end AI solutions for logistics, finance and operations** — fr
 ---
 
 <p align="center">
-  🌍 Medellín, Colombia · 🗣️ Spanish (native) · English (professional)<br>
-  💬 Open to collaborating on GenAI agents, RAG systems and applied optimization.
+  Medellín, Colombia · Spanish (native) · English (professional)<br>
+  Open to collaborating on GenAI agents, RAG systems and applied optimization.
 </p>
